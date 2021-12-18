@@ -1,5 +1,5 @@
 <!-- <h1 align="center"> -->
-Hi there 👋</h1>
+Hi 👋</h1>
 <!-- - 📫 How to reach me **luuhoanglong577@gmail.com** -->
 
 <!-- <h3 align="left">Connect with me:</h3>
